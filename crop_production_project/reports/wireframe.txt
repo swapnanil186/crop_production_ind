@@ -1,0 +1,145 @@
+Wireframe for Crop Production in India Project
+
+1. Home Page
+-----------------------------------------------------------
+|                         Home Page                         |
+-----------------------------------------------------------
+|                                                           |
+|   [Logo]                       [Navigation Menu]          |
+|                                                           |
+-----------------------------------------------------------
+|                                                           |
+|   Welcome to the Crop Production in India Analysis!       |
+|                                                           |
+|   - Overview                                              |
+|   - Data Insights                                         |
+|   - Visualizations                                        |
+|   - Predictive Analysis                                   |
+|                                                           |
+|   [Get Started Button]                                    |
+|                                                           |
+-----------------------------------------------------------
+|                                                           |
+|                    [Footer Information]                   |
+|                                                           |
+-----------------------------------------------------------
+
+2. Overview Page
+-----------------------------------------------------------
+|                        Overview Page                      |
+-----------------------------------------------------------
+|                                                           |
+|   [Navigation Menu]                                       |
+|                                                           |
+-----------------------------------------------------------
+|                                                           |
+|   About the Project                                       |
+|                                                           |
+|   - Objective                                             |
+|   - Dataset                                               |
+|   - Methodology                                           |
+|                                                           |
+|   [Download Dataset Button]                               |
+|                                                           |
+-----------------------------------------------------------
+|                                                           |
+|                    [Footer Information]                   |
+|                                                           |
+-----------------------------------------------------------
+
+3. Data Insights Page
+-----------------------------------------------------------
+|                       Data Insights Page                  |
+-----------------------------------------------------------
+|                                                           |
+|   [Navigation Menu]                                       |
+|                                                           |
+-----------------------------------------------------------
+|                                                           |
+|   Key Indicators and Metrics                              |
+|                                                           |
+|   - Crop Year                                             |
+|   - Area                                                  |
+|   - Production                                            |
+|   - State and District                                    |
+|   - Season and Crop Type                                  |
+|                                                           |
+|   [Detailed Insights Button]                              |
+|                                                           |
+-----------------------------------------------------------
+|                                                           |
+|                    [Footer Information]                   |
+|                                                           |
+-----------------------------------------------------------
+
+4. Visualizations Page
+-----------------------------------------------------------
+|                     Visualizations Page                   |
+-----------------------------------------------------------
+|                                                           |
+|   [Navigation Menu]                                       |
+|                                                           |
+-----------------------------------------------------------
+|                                                           |
+|   Visualizations                                          |
+|                                                           |
+|   - Crop Production Over Time (Line Chart)                |
+|   - Production by State (Bar Chart)                       |
+|   - Top 10 States by Production Counts (Bar Chart)        |
+|   - Top 10 Districts by Production Counts (Bar Chart)     |
+|   - Crop Distribution (Pie Chart)                         |
+|                                                           |
+|   [View Interactive Dashboard Button]                     |
+|                                                           |
+-----------------------------------------------------------
+|                                                           |
+|                    [Footer Information]                   |
+|                                                           |
+-----------------------------------------------------------
+
+5. Predictive Analysis Page
+-----------------------------------------------------------
+|                   Predictive Analysis Page                |
+-----------------------------------------------------------
+|                                                           |
+|   [Navigation Menu]                                       |
+|                                                           |
+-----------------------------------------------------------
+|                                                           |
+|   Predictive Analysis                                     |
+|                                                           |
+|   - Model Overview                                        |
+|   - Linear Regression Model                               |
+|   - Model Evaluation (MSE)                                |
+|   - Predictive Insights                                   |
+|                                                           |
+|   [View Prediction Results Button]                        |
+|                                                           |
+-----------------------------------------------------------
+|                                                           |
+|                    [Footer Information]                   |
+|                                                           |
+-----------------------------------------------------------
+
+6. Contact Page
+-----------------------------------------------------------
+|                        Contact Page                       |
+-----------------------------------------------------------
+|                                                           |
+|   [Navigation Menu]                                       |
+|                                                           |
+-----------------------------------------------------------
+|                                                           |
+|   Contact Us                                              |
+|                                                           |
+|   - Name                                                  |
+|   - Email                                                 |
+|   - Message                                               |
+|                                                           |
+|   [Submit Button]                                         |
+|                                                           |
+-----------------------------------------------------------
+|                                                           |
+|                    [Footer Information]                   |
+|                                                           |
+-----------------------------------------------------------
